@@ -8,5 +8,8 @@
     <color name="material_red_700">#D50000</color>
     <color name="material_green_700">#00C853</color>
     <color name="line_paint">#99de45</color>
+    <color name="black">#000</color>
+    <color name="tblack">#60000000</color>
+    <color name="white">#fff</color>
 
 </resources>

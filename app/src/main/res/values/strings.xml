@@ -34,5 +34,7 @@
     <string name="search_for_stocks">Search for Stocks</string>
     <string name="no_result_for_input_quote_string">No Stock of exists for the symbol</string>
     <string name="string_symbol">symbol</string>
+    <string name="image">image</string>
+    <string name="stocks">Stocks</string>
 
 </resources>
